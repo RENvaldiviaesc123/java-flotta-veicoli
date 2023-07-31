@@ -1,6 +1,6 @@
 package org.java.lessons.flottaveicoli;
 
-public class Veicolo {
+public class Motocicletta {
     //ATTRIBUTI
 
     //COSTRUTTORI
